@@ -1,0 +1,21 @@
+.create {
+    text-align: center;
+}
+input[type="text"] {
+    font-size: 1.5em;
+    margin-top: -2px; 
+}
+#id {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px
+}
+#title {
+    border-radius: 0px;
+}
+#details {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+button {
+    margin-top: 10px;
+}
